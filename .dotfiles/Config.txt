@@ -1,0 +1,7 @@
+Config
+
+Configuration
+Update your name in theme.config.js or change the footer.
+Update your name and site URL for the RSS feed in scripts/gen-rss.js.
+Update the meta tags in pages/_document.js.
+Update the posts inside pages/posts/*.md with your own content.
